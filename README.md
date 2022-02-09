@@ -1,7 +1,7 @@
 # ECONGA4003_FINALPROJECT
 Please refer to the Raza_Rizvi_Happiness_and_Peace.ipynb file to view the report. 
 
-This notebook was prepared for the course ECONGA 4003: Data Skills for Computational Social Science which is a part of the [NYU Computational Social Science Program](https://css.as.nyu.edu) taught by Drs. Thomas Sargent, Spencer Lyon and Chase Coleman
+This notebook was prepared for the course ECONGA 4003: Data Skills for Computational Social Science which is a part of the [NYU Computational Social Science Program](https://css.as.nyu.edu) taught by Drs. Thomas Sargent, Spencer Lyon and Chase Coleman.
  
  ### Authors: 
  This project was authored by:
