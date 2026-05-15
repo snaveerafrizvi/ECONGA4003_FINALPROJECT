@@ -31,7 +31,10 @@ This project uses a combination of Exploratory Data Analysis and Linear Regressi
 
 ## Modelling and Evaluation
 
-Following reports of how female-led countries such as New Zealand (Jacinda Ardern) and Germany (Angela Merkel) had a superior performance during the pandemic, we first focus on the year 2020. 
+In this project we analyze the general happiness level and peace values of countries around the world. We analyze the time trends of the average values of this indices for both the top and worse performing countries. We do a special focus on Afghanistan where we see how major political events have impacted the happiness index values for this country. We also analyze the correlation between the happiness index and factors such as healthy life expectancy, log gdp per capita, social support, freedom to make life choices and perception of corruption. Finally we look at how geographical proximity plays a role in index values.
+
+A significant step in this project aims to see see whether countries who have a female head of state/government fare better on these indices than male led countries. Following reports of how female-led countries such as New Zealand (Jacinda Ardern) and Germany (Angela Merkel) had a superior performance during the pandemic, we first focus on the year 2020. We see wether averages of the index values (both peace and happiness) differed by the gender of the head of state. We then extend our analysis to the entire 2008-2020 time period and check wether these differences have persisted across time. We also see what percentage of head of states were female in both the top and worst 10 countries (for peace and happiness seperately) in each year.
+
 
 Please refer to the Raza_Rizvi_Happiness_and_Peace.ipynb file for
 
@@ -41,6 +44,7 @@ Please refer to the Raza_Rizvi_Happiness_and_Peace.ipynb file for
 ## Key Insights
 
 This report finds that individual time trends for average values of both peace and happiness show that low ranked countries tend to exhibit more volatility than high ranked countries. It also shows that there are infact gendered differences and female-led countries performed well not only during the pandemic year but also throughout the 2008-2020 time period
+
  
 ![Low_vs_High_Time_Trend](https://github.com/snaveerafrizvi/ECONGA4003_FINALPROJECT/blob/main/Low_vs_High_Time_Trend.png)
 
