@@ -15,10 +15,9 @@ In this project, Python was used to analyze the general happiness level and peac
 
 ## Programming Languages and Tools used
 
-This Project uses Python for all analysis
+This project uses a combination of Exploratory Data Analysis and Linear Regression for the analysis. All code is in Python 
 
 ## Data Understanding and Source
-
 
 * Data for Peace Index: This is a Global Peace Index measuring the peacefulness of a country. This index orginally ranges from 1-5, where lower values represent more peacefullness in a country. We have downloaded this dataset from the [vision of humanity website](https://www.visionofhumanity.org/). The downloaded dataset is provided as a supplementary file in this project and we simply read it for our analysis
    * This data has been produced by the Institute for Economics and Peace (IEP) under the guidance of an international panel of independent experts.
