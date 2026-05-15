@@ -21,11 +21,11 @@ This Project uses Python for all analysis
 
 
 * Data for Peace Index: This is a Global Peace Index measuring the peacefulness of a country. This index orginally ranges from 1-5, where lower values represent more peacefullness in a country. We have downloaded this dataset from the [vision of humanity website](https://www.visionofhumanity.org/). The downloaded dataset is provided as a supplementary file in this project and we simply read it for our analysis
- * This data has been produced by the Institute for Economics and Peace (IEP) under the guidance of an international panel of independent experts.
+   * This data has been produced by the Institute for Economics and Peace (IEP) under the guidance of an international panel of independent experts.
 
 
 * Data for Happiness Index: This is a Cantril ladder Score which is meant to represent happiness or subjective well-being. Respondents are asked to imagine a ladder with steps numbered from 0 to 10. They are then asked to rate their current lives based on where they consider themselves to stand on the ladder, with step 0 is the worst possible life and step 10 is the best one. We download the data for the happiness index using an API request from the [World Happiness Report](https://www.worldhappiness.report/ed/2021/) published in the year 2021.
- * The World Happiness Report is a publication of the Sustainable Development Solutions Network, powered by data from the Gallup World poll and Lloyd’s Register Foundation, who provided access to the World Risk Poll. The 2021 Report includes data from the ICL-YouGov Behaviour Tracker as part of the COVID Data Hub from the Institute of Global Health Innovation
+   * The World Happiness Report is a publication of the Sustainable Development Solutions Network, powered by data from the Gallup World poll and Lloyd’s Register Foundation, who provided access to the World Risk Poll. The 2021 Report includes data from the ICL-YouGov Behaviour Tracker as part of the COVID Data Hub from the Institute of Global Health Innovation
 
 
 * Data for Female Head of States. This data lists female head of states and government who were appointed by a governing committee or parliament. It includes Presidents, Prime Ministers and Chancellors. The dataset includes the name of the countries these women mandated on as well as the start and end dates of the mandate. We scrape this data using scrapy from the Wikipedia page for [List of elected and appointed female heads of state and government](https://en.wikipedia.org/wiki/List_of_elected_or_appointed_female_heads_of_state_or_government).
