@@ -27,14 +27,13 @@ This project uses a combination of Exploratory Data Analysis and Linear Regressi
    * The World Happiness Report is a publication of the Sustainable Development Solutions Network, powered by data from the Gallup World poll and Lloyd’s Register Foundation, who provided access to the World Risk Poll. The 2021 Report includes data from the ICL-YouGov Behaviour Tracker as part of the COVID Data Hub from the Institute of Global Health Innovation
 
 
-* Data for Female Head of States. This data lists female head of states and government who were appointed by a governing committee or parliament. It includes Presidents, Prime Ministers and Chancellors. The dataset includes the name of the countries these women mandated on as well as the start and end dates of the mandate. We scrape this data using scrapy from the Wikipedia page for [List of elected and appointed female heads of state and government](https://en.wikipedia.org/wiki/List_of_elected_or_appointed_female_heads_of_state_or_government).
+* Data for Female Head of States. This data lists female head of states and government who were appointed by a governing committee or parliament. It includes Presidents, Prime Ministers and Chancellors. The dataset includes the name of the countries these women mandated on as well as the start and end dates of the mandate. We scraped this data using scrapy from the Wikipedia page for [List of elected and appointed female heads of state and government](https://en.wikipedia.org/wiki/List_of_elected_or_appointed_female_heads_of_state_or_government). The steps required to scrape the data are provided in the Appendix at the end of the Python Notebook
 
 ## Modelling and Evaluation
 
 In this project we analyze the general happiness level and peace values of countries around the world. We analyze the time trends of the average values of this indices for both the top and worse performing countries. We do a special focus on Afghanistan where we see how major political events have impacted the happiness index values for this country. We also analyze the correlation between the happiness index and factors such as healthy life expectancy, log gdp per capita, social support, freedom to make life choices and perception of corruption. Finally we look at how geographical proximity plays a role in index values.
 
 A significant step in this project aims to see see whether countries who have a female head of state/government fare better on these indices than male led countries. Following reports of how female-led countries such as New Zealand (Jacinda Ardern) and Germany (Angela Merkel) had a superior performance during the pandemic, we first focus on the year 2020. We see wether averages of the index values (both peace and happiness) differed by the gender of the head of state. We then extend our analysis to the entire 2008-2020 time period and check wether these differences have persisted across time. We also see what percentage of head of states were female in both the top and worst 10 countries (for peace and happiness seperately) in each year.
-
 
 Please refer to the Raza_Rizvi_Happiness_and_Peace.ipynb file for
 
