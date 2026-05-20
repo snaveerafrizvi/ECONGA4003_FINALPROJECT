@@ -1,6 +1,6 @@
 # ECONGA4003_FINALPROJECT
 
- ### Authors: 
+ ## Authors: 
  This project was authored by:
  
  -Syeda Naveera Fatima Rizvi (sr5752@nyu.edu) <br> 
